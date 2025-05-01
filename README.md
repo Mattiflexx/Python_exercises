@@ -1,4 +1,4 @@
-Hi my name is Matti.
+Hi my name is Matthias.
 I am a new to coding and programming. 
 I am learning python and this is my fourth week. 
 I got an exercise to write a BlackJack program. 
